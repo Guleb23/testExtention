@@ -1,0 +1,10 @@
+{
+    "name": {
+        "message": "CopyPaster",
+        "description": "extension name"
+    },
+    "description": {
+        "message": "Copy from stackoverflow make be easy",
+        "description": "extension description"
+    }
+}

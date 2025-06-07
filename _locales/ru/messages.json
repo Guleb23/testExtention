@@ -1,0 +1,10 @@
+{
+    "name": {
+        "message": "КопиПастер",
+        "description": "extension name"
+    },
+    "description": {
+        "message": "Копирование с стаковерфлов стало намного легче",
+        "description": "extension description"
+    }
+}
